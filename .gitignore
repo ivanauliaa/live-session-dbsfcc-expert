@@ -1,0 +1,8 @@
+.env
+*.pem
+package-lock.json
+config/database/test.json
+.DS_Store
+
+node_modules/
+coverage/

@@ -1,0 +1,7 @@
+{
+    "jestrunner.runOptions": ["--coverage", "--runInBand", "--setupFiles dotenv/config"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"]
+}
